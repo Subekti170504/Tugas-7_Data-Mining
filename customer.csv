@@ -1,0 +1,1001 @@
+CustomerID,Usia,JenisKelamin,Tenure,BiayaBulanan,TotalBiaya,LayananInternet,JenisKontrak,MetodePembayaran,Churn
+1,56,Pria,40,86.23,3449.2,No,One year,Credit card (automatic),Tidak
+2,69,Pria,45,83.02,3735.9,Fiber optic,One year,Electronic check,Tidak
+3,46,Pria,62,69.95,4336.9,Fiber optic,One year,Bank transfer (automatic),Ya
+4,32,Wanita,58,59.56,3454.48,No,One year,Electronic check,Tidak
+5,60,Pria,67,98.36,6590.12,No,Month-to-month,Mailed check,Tidak
+6,25,Pria,56,31.6,1769.6,DSL,Month-to-month,Electronic check,Tidak
+7,38,Pria,40,78.01,3120.4,DSL,Two year,Credit card (automatic),Tidak
+8,56,Wanita,40,35.3,1412.0,Fiber optic,One year,Bank transfer (automatic),Ya
+9,36,Wanita,33,47.06,1552.98,No,Month-to-month,Mailed check,Tidak
+10,40,Pria,6,44.7,268.2,No,Month-to-month,Bank transfer (automatic),Tidak
+11,28,Pria,19,95.76,1819.44,No,Two year,Bank transfer (automatic),Tidak
+12,28,Pria,40,97.39,3895.6,Fiber optic,Two year,Mailed check,Ya
+13,41,Pria,59,34.64,2043.76,No,Two year,Bank transfer (automatic),Ya
+14,53,Wanita,59,21.76,1283.84,No,Month-to-month,Bank transfer (automatic),Ya
+15,57,Wanita,48,77.6,3724.8,Fiber optic,Month-to-month,Electronic check,Tidak
+16,41,Wanita,41,53.44,2191.04,DSL,Two year,Bank transfer (automatic),Tidak
+17,20,Wanita,13,27.11,352.43,DSL,One year,Bank transfer (automatic),Tidak
+18,39,Pria,45,74.7,3361.5,Fiber optic,Two year,Bank transfer (automatic),Tidak
+19,19,Pria,53,63.61,3371.33,No,Two year,Bank transfer (automatic),Tidak
+20,41,Pria,42,98.44,4134.48,Fiber optic,Two year,Mailed check,Tidak
+21,61,Wanita,63,38.19,2405.97,DSL,Two year,Credit card (automatic),Ya
+22,47,Pria,27,52.32,1412.64,DSL,Month-to-month,Electronic check,Tidak
+23,55,Wanita,38,63.4,2409.2,Fiber optic,One year,Bank transfer (automatic),Tidak
+24,19,Wanita,60,83.34,5000.4,Fiber optic,Two year,Bank transfer (automatic),Ya
+25,38,Pria,7,63.91,447.37,DSL,One year,Mailed check,Ya
+26,50,Pria,5,69.03,345.15,Fiber optic,One year,Credit card (automatic),Tidak
+27,29,Pria,45,38.09,1714.05,DSL,One year,Bank transfer (automatic),Tidak
+28,39,Wanita,58,87.75,5089.5,Fiber optic,Two year,Mailed check,Tidak
+29,61,Pria,31,54.29,1682.99,Fiber optic,Month-to-month,Electronic check,Ya
+30,42,Wanita,23,31.28,719.44,Fiber optic,Two year,Electronic check,Tidak
+31,66,Pria,42,73.14,3071.88,DSL,One year,Bank transfer (automatic),Tidak
+32,44,Wanita,10,37.29,372.9,Fiber optic,One year,Bank transfer (automatic),Ya
+33,59,Wanita,32,27.81,889.92,DSL,Month-to-month,Credit card (automatic),Tidak
+34,45,Pria,53,88.96,4714.88,DSL,Two year,Credit card (automatic),Ya
+35,33,Wanita,30,56.81,1704.3,Fiber optic,One year,Bank transfer (automatic),Tidak
+36,32,Wanita,39,79.94,3117.66,Fiber optic,Month-to-month,Mailed check,Ya
+37,64,Pria,31,43.25,1340.75,DSL,One year,Credit card (automatic),Ya
+38,68,Wanita,2,82.96,165.92,DSL,Month-to-month,Bank transfer (automatic),Tidak
+39,61,Pria,12,28.95,347.4,No,Month-to-month,Credit card (automatic),Ya
+40,69,Wanita,39,48.48,1890.72,DSL,Two year,Bank transfer (automatic),Tidak
+41,20,Pria,66,98.24,6483.84,No,One year,Electronic check,Ya
+42,54,Pria,13,83.52,1085.76,No,Two year,Bank transfer (automatic),Tidak
+43,68,Wanita,46,59.78,2749.88,No,One year,Electronic check,Ya
+44,24,Wanita,27,47.18,1273.86,Fiber optic,Two year,Credit card (automatic),Tidak
+45,38,Wanita,17,89.77,1526.09,Fiber optic,One year,Bank transfer (automatic),Tidak
+46,26,Wanita,60,63.59,3815.4,DSL,Two year,Credit card (automatic),Ya
+47,56,Wanita,64,80.67,5162.88,No,Month-to-month,Electronic check,Tidak
+48,35,Pria,35,80.33,2811.55,Fiber optic,One year,Bank transfer (automatic),Ya
+49,21,Wanita,70,21.44,1500.8,Fiber optic,One year,Credit card (automatic),Tidak
+50,42,Pria,30,30.1,903.0,Fiber optic,Month-to-month,Electronic check,Tidak
+51,31,Pria,71,72.77,5166.67,Fiber optic,Two year,Credit card (automatic),Tidak
+52,67,Wanita,63,32.93,2074.59,Fiber optic,One year,Mailed check,Tidak
+53,26,Pria,28,40.44,1132.32,No,One year,Electronic check,Tidak
+54,43,Pria,60,95.73,5743.8,No,Two year,Electronic check,Ya
+55,19,Pria,37,64.81,2397.97,No,Month-to-month,Electronic check,Ya
+56,37,Pria,22,80.06,1761.32,No,Two year,Bank transfer (automatic),Tidak
+57,45,Wanita,68,64.64,4395.52,DSL,Two year,Bank transfer (automatic),Tidak
+58,64,Pria,20,64.2,1284.0,No,Two year,Bank transfer (automatic),Tidak
+59,24,Wanita,68,27.53,1872.04,Fiber optic,One year,Mailed check,Tidak
+60,61,Wanita,64,47.49,3039.36,No,Month-to-month,Mailed check,Tidak
+61,25,Pria,17,42.59,724.03,DSL,Month-to-month,Electronic check,Tidak
+62,64,Wanita,12,51.26,615.12,Fiber optic,Two year,Mailed check,Tidak
+63,52,Wanita,22,83.87,1845.14,No,One year,Credit card (automatic),Tidak
+64,31,Wanita,17,49.75,845.75,No,Two year,Electronic check,Tidak
+65,34,Pria,10,56.14,561.4,No,One year,Electronic check,Ya
+66,53,Wanita,65,51.79,3366.35,Fiber optic,One year,Credit card (automatic),Tidak
+67,67,Wanita,22,27.47,604.34,Fiber optic,One year,Electronic check,Tidak
+68,57,Wanita,50,55.29,2764.5,DSL,One year,Mailed check,Ya
+69,21,Pria,14,35.65,499.1,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+70,19,Wanita,64,34.94,2236.16,Fiber optic,One year,Credit card (automatic),Tidak
+71,23,Pria,47,27.52,1293.44,No,One year,Mailed check,Tidak
+72,59,Pria,29,48.53,1407.37,Fiber optic,Two year,Credit card (automatic),Tidak
+73,21,Pria,36,80.6,2901.6,No,Two year,Credit card (automatic),Tidak
+74,46,Pria,52,42.12,2190.24,No,Month-to-month,Electronic check,Tidak
+75,35,Pria,7,44.99,314.93,Fiber optic,Two year,Electronic check,Tidak
+76,43,Pria,29,71.41,2070.89,DSL,One year,Mailed check,Tidak
+77,61,Wanita,11,35.67,392.37,DSL,Two year,Credit card (automatic),Tidak
+78,51,Pria,33,91.76,3028.08,Fiber optic,Month-to-month,Electronic check,Tidak
+79,27,Wanita,6,61.62,369.72,DSL,Two year,Electronic check,Tidak
+80,53,Wanita,32,55.81,1785.92,No,Two year,Credit card (automatic),Tidak
+81,31,Pria,51,64.63,3296.13,No,Month-to-month,Mailed check,Tidak
+82,48,Wanita,58,33.28,1930.24,Fiber optic,Month-to-month,Mailed check,Tidak
+83,65,Wanita,26,69.08,1796.08,DSL,One year,Credit card (automatic),Tidak
+84,32,Wanita,46,49.05,2256.3,DSL,Two year,Mailed check,Tidak
+85,25,Wanita,29,91.77,2661.33,No,One year,Electronic check,Tidak
+86,31,Pria,4,33.51,134.04,Fiber optic,Two year,Credit card (automatic),Tidak
+87,40,Wanita,13,60.56,787.28,DSL,Two year,Electronic check,Tidak
+88,57,Pria,39,67.85,2646.15,Fiber optic,One year,Bank transfer (automatic),Tidak
+89,38,Wanita,15,22.67,340.05,DSL,Two year,Bank transfer (automatic),Tidak
+90,33,Wanita,29,49.1,1423.9,No,Two year,Mailed check,Tidak
+91,62,Pria,29,78.61,2279.69,No,Two year,Bank transfer (automatic),Tidak
+92,35,Wanita,32,85.63,2740.16,Fiber optic,Month-to-month,Electronic check,Ya
+93,64,Wanita,2,45.05,90.1,No,One year,Bank transfer (automatic),Tidak
+94,41,Wanita,47,83.89,3942.83,DSL,Month-to-month,Electronic check,Tidak
+95,43,Pria,22,97.42,2143.24,No,One year,Mailed check,Tidak
+96,42,Wanita,27,88.55,2390.85,Fiber optic,One year,Mailed check,Tidak
+97,62,Pria,67,29.41,1970.47,Fiber optic,Two year,Electronic check,Tidak
+98,58,Wanita,56,79.18,4434.08,Fiber optic,One year,Bank transfer (automatic),Tidak
+99,46,Pria,21,45.57,956.97,DSL,Month-to-month,Mailed check,Ya
+100,32,Pria,47,99.07,4656.29,DSL,Month-to-month,Credit card (automatic),Tidak
+101,62,Wanita,59,58.83,3470.97,DSL,Month-to-month,Mailed check,Tidak
+102,18,Wanita,6,29.79,178.74,DSL,One year,Bank transfer (automatic),Ya
+103,42,Pria,19,78.01,1482.19,DSL,Month-to-month,Credit card (automatic),Tidak
+104,24,Pria,57,45.84,2612.88,No,One year,Bank transfer (automatic),Tidak
+105,26,Wanita,69,99.77,6884.13,DSL,Month-to-month,Electronic check,Tidak
+106,41,Pria,3,98.38,295.14,DSL,Month-to-month,Credit card (automatic),Ya
+107,18,Wanita,1,72.49,72.49,No,One year,Bank transfer (automatic),Tidak
+108,61,Wanita,58,30.39,1762.62,DSL,Month-to-month,Credit card (automatic),Tidak
+109,25,Wanita,38,74.95,2848.1,Fiber optic,Two year,Bank transfer (automatic),Tidak
+110,41,Wanita,15,27.44,411.6,DSL,One year,Credit card (automatic),Tidak
+111,28,Pria,34,22.35,759.9,DSL,One year,Bank transfer (automatic),Tidak
+112,68,Wanita,61,85.84,5236.24,Fiber optic,One year,Electronic check,Tidak
+113,34,Pria,35,36.78,1287.3,Fiber optic,Two year,Credit card (automatic),Tidak
+114,25,Wanita,64,50.32,3220.48,Fiber optic,One year,Credit card (automatic),Tidak
+115,52,Pria,25,97.88,2447.0,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+116,52,Wanita,24,46.95,1126.8,DSL,Month-to-month,Credit card (automatic),Tidak
+117,50,Pria,12,43.72,524.64,Fiber optic,Month-to-month,Electronic check,Ya
+118,22,Pria,18,93.46,1682.28,Fiber optic,One year,Credit card (automatic),Ya
+119,59,Wanita,15,28.86,432.9,No,Month-to-month,Mailed check,Ya
+120,56,Wanita,27,80.77,2180.79,Fiber optic,One year,Electronic check,Ya
+121,58,Wanita,60,99.05,5943.0,Fiber optic,Month-to-month,Mailed check,Tidak
+122,45,Wanita,46,92.1,4236.6,No,Two year,Credit card (automatic),Ya
+123,24,Pria,17,72.13,1226.21,No,Two year,Bank transfer (automatic),Tidak
+124,26,Wanita,53,45.12,2391.36,DSL,Two year,Mailed check,Tidak
+125,25,Pria,8,40.35,322.8,No,Two year,Credit card (automatic),Tidak
+126,29,Pria,27,85.54,2309.58,DSL,One year,Mailed check,Ya
+127,51,Wanita,46,90.39,4157.94,No,Month-to-month,Credit card (automatic),Tidak
+128,50,Pria,50,62.03,3101.5,No,Two year,Credit card (automatic),Tidak
+129,65,Pria,71,39.55,2808.05,DSL,One year,Credit card (automatic),Tidak
+130,40,Pria,3,29.04,87.12,No,Two year,Bank transfer (automatic),Tidak
+131,41,Pria,64,26.97,1726.08,DSL,Two year,Mailed check,Tidak
+132,54,Wanita,44,77.53,3411.32,No,One year,Electronic check,Tidak
+133,52,Wanita,53,53.61,2841.33,Fiber optic,One year,Electronic check,Tidak
+134,61,Wanita,24,92.43,2218.32,No,Month-to-month,Electronic check,Tidak
+135,57,Wanita,60,79.17,4750.2,DSL,Month-to-month,Electronic check,Ya
+136,39,Pria,3,35.3,105.9,No,Two year,Credit card (automatic),Tidak
+137,44,Pria,20,69.1,1382.0,DSL,Two year,Mailed check,Ya
+138,52,Wanita,46,54.84,2522.64,DSL,Month-to-month,Mailed check,Tidak
+139,18,Wanita,15,66.18,992.7,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+140,52,Wanita,25,79.05,1976.25,Fiber optic,One year,Mailed check,Tidak
+141,54,Pria,71,84.5,5999.5,DSL,Month-to-month,Mailed check,Tidak
+142,64,Wanita,17,87.5,1487.5,No,Month-to-month,Mailed check,Tidak
+143,31,Wanita,9,40.32,362.88,DSL,Two year,Bank transfer (automatic),Tidak
+144,20,Wanita,38,22.49,854.62,DSL,Month-to-month,Electronic check,Tidak
+145,18,Pria,48,79.14,3798.72,No,Two year,Mailed check,Tidak
+146,22,Pria,60,28.51,1710.6,No,Month-to-month,Bank transfer (automatic),Ya
+147,43,Pria,63,45.19,2846.97,No,One year,Bank transfer (automatic),Tidak
+148,31,Pria,2,20.31,40.62,No,Month-to-month,Credit card (automatic),Tidak
+149,56,Pria,11,74.53,819.83,DSL,Month-to-month,Bank transfer (automatic),Ya
+150,44,Pria,64,33.37,2135.68,DSL,Month-to-month,Electronic check,Tidak
+151,26,Pria,21,72.42,1520.82,Fiber optic,Two year,Mailed check,Ya
+152,32,Pria,18,99.34,1788.12,DSL,One year,Bank transfer (automatic),Tidak
+153,32,Wanita,64,25.81,1651.84,No,Month-to-month,Electronic check,Tidak
+154,43,Wanita,38,26.17,994.46,Fiber optic,Two year,Bank transfer (automatic),Tidak
+155,59,Pria,32,47.23,1511.36,No,One year,Bank transfer (automatic),Ya
+156,30,Pria,11,89.31,982.41,DSL,Two year,Bank transfer (automatic),Ya
+157,68,Wanita,45,37.24,1675.8,Fiber optic,Two year,Bank transfer (automatic),Ya
+158,49,Pria,33,48.83,1611.39,No,One year,Bank transfer (automatic),Tidak
+159,56,Pria,41,25.48,1044.68,Fiber optic,Month-to-month,Electronic check,Tidak
+160,66,Pria,8,81.05,648.4,Fiber optic,Two year,Mailed check,Tidak
+161,69,Wanita,11,52.66,579.26,DSL,Two year,Mailed check,Tidak
+162,49,Wanita,51,80.74,4117.74,No,Month-to-month,Mailed check,Tidak
+163,21,Wanita,41,92.29,3783.89,Fiber optic,Month-to-month,Mailed check,Tidak
+164,47,Wanita,17,38.62,656.54,Fiber optic,One year,Electronic check,Tidak
+165,54,Wanita,46,84.59,3891.14,No,One year,Credit card (automatic),Tidak
+166,40,Pria,32,24.73,791.36,Fiber optic,One year,Credit card (automatic),Tidak
+167,56,Wanita,54,91.91,4963.14,Fiber optic,Month-to-month,Electronic check,Tidak
+168,62,Pria,20,72.06,1441.2,Fiber optic,Two year,Electronic check,Ya
+169,32,Pria,33,89.94,2968.02,No,Two year,Bank transfer (automatic),Tidak
+170,60,Wanita,40,20.02,800.8,No,One year,Bank transfer (automatic),Ya
+171,46,Wanita,32,33.53,1072.96,No,Month-to-month,Bank transfer (automatic),Tidak
+172,53,Pria,2,51.18,102.36,No,Two year,Mailed check,Tidak
+173,30,Pria,33,50.36,1661.88,DSL,One year,Bank transfer (automatic),Tidak
+174,49,Pria,30,38.14,1144.2,Fiber optic,Two year,Credit card (automatic),Tidak
+175,24,Wanita,33,50.53,1667.49,No,Two year,Mailed check,Ya
+176,68,Wanita,26,30.31,788.06,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+177,39,Wanita,22,53.02,1166.44,Fiber optic,Month-to-month,Mailed check,Tidak
+178,45,Wanita,66,84.19,5556.54,DSL,Two year,Credit card (automatic),Tidak
+179,19,Wanita,38,58.33,2216.54,No,One year,Bank transfer (automatic),Tidak
+180,59,Pria,46,21.44,986.24,No,Month-to-month,Credit card (automatic),Tidak
+181,62,Wanita,15,53.72,805.8,Fiber optic,Two year,Credit card (automatic),Tidak
+182,23,Pria,44,22.17,975.48,No,Month-to-month,Credit card (automatic),Tidak
+183,45,Pria,49,97.3,4767.7,Fiber optic,Month-to-month,Bank transfer (automatic),Ya
+184,45,Pria,61,30.2,1842.2,Fiber optic,Month-to-month,Electronic check,Tidak
+185,61,Wanita,67,76.62,5133.54,DSL,Two year,Bank transfer (automatic),Tidak
+186,61,Wanita,6,97.82,586.92,DSL,One year,Credit card (automatic),Tidak
+187,37,Wanita,9,86.08,774.72,DSL,One year,Bank transfer (automatic),Tidak
+188,47,Pria,6,75.95,455.7,Fiber optic,One year,Credit card (automatic),Tidak
+189,28,Pria,32,87.16,2789.12,No,Month-to-month,Electronic check,Tidak
+190,45,Pria,41,98.54,4040.14,DSL,Two year,Mailed check,Tidak
+191,42,Pria,8,69.71,557.68,No,Month-to-month,Electronic check,Ya
+192,56,Pria,50,64.73,3236.5,DSL,One year,Electronic check,Tidak
+193,50,Pria,62,70.26,4356.12,DSL,One year,Mailed check,Ya
+194,18,Wanita,62,62.61,3881.82,Fiber optic,Two year,Bank transfer (automatic),Ya
+195,44,Wanita,7,70.81,495.67,DSL,Month-to-month,Mailed check,Tidak
+196,69,Wanita,4,55.99,223.96,DSL,One year,Bank transfer (automatic),Tidak
+197,30,Wanita,6,37.48,224.88,Fiber optic,Two year,Bank transfer (automatic),Tidak
+198,58,Pria,58,29.62,1717.96,No,Month-to-month,Credit card (automatic),Tidak
+199,20,Pria,22,25.47,560.34,DSL,Month-to-month,Credit card (automatic),Tidak
+200,56,Wanita,26,41.07,1067.82,Fiber optic,One year,Mailed check,Tidak
+201,23,Pria,3,23.69,71.07,DSL,One year,Electronic check,Tidak
+202,25,Wanita,41,65.37,2680.17,Fiber optic,Month-to-month,Mailed check,Tidak
+203,44,Wanita,60,42.71,2562.6,No,Month-to-month,Bank transfer (automatic),Tidak
+204,26,Wanita,14,85.96,1203.44,No,One year,Credit card (automatic),Tidak
+205,54,Pria,12,25.94,311.28,Fiber optic,Month-to-month,Mailed check,Tidak
+206,50,Wanita,12,38.11,457.32,Fiber optic,One year,Mailed check,Ya
+207,68,Wanita,13,78.42,1019.46,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+208,59,Wanita,25,67.9,1697.5,No,One year,Credit card (automatic),Tidak
+209,61,Pria,45,25.16,1132.2,DSL,Two year,Credit card (automatic),Tidak
+210,41,Pria,19,90.18,1713.42,No,One year,Bank transfer (automatic),Ya
+211,32,Wanita,55,90.18,4959.9,Fiber optic,One year,Credit card (automatic),Tidak
+212,49,Pria,45,46.43,2089.35,Fiber optic,Two year,Electronic check,Tidak
+213,49,Pria,8,47.23,377.84,No,Month-to-month,Mailed check,Tidak
+214,41,Pria,53,99.12,5253.36,Fiber optic,Two year,Credit card (automatic),Ya
+215,58,Pria,55,70.09,3854.95,No,One year,Credit card (automatic),Tidak
+216,69,Pria,32,62.51,2000.32,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+217,66,Pria,51,87.05,4439.55,DSL,Two year,Bank transfer (automatic),Tidak
+218,66,Pria,44,42.82,1884.08,DSL,Month-to-month,Mailed check,Ya
+219,69,Pria,70,54.33,3803.1,Fiber optic,Month-to-month,Electronic check,Tidak
+220,29,Pria,18,41.42,745.56,No,Two year,Mailed check,Tidak
+221,56,Pria,22,83.13,1828.86,DSL,Month-to-month,Credit card (automatic),Ya
+222,19,Wanita,37,65.87,2437.19,No,Two year,Electronic check,Ya
+223,20,Wanita,56,72.71,4071.76,Fiber optic,One year,Electronic check,Tidak
+224,66,Pria,59,40.18,2370.62,No,Month-to-month,Electronic check,Ya
+225,54,Wanita,3,37.62,112.86,DSL,One year,Electronic check,Ya
+226,66,Wanita,28,59.07,1653.96,No,One year,Mailed check,Tidak
+227,34,Pria,35,79.01,2765.35,No,Month-to-month,Bank transfer (automatic),Tidak
+228,66,Pria,61,62.02,3783.22,Fiber optic,Two year,Bank transfer (automatic),Ya
+229,19,Pria,54,22.61,1220.94,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+230,19,Wanita,63,89.48,5637.24,Fiber optic,One year,Bank transfer (automatic),Ya
+231,45,Wanita,7,25.17,176.19,DSL,One year,Bank transfer (automatic),Ya
+232,40,Pria,49,96.47,4727.03,DSL,Two year,Bank transfer (automatic),Ya
+233,54,Pria,31,22.01,682.31,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+234,49,Pria,58,75.56,4382.48,Fiber optic,One year,Credit card (automatic),Ya
+235,50,Wanita,61,26.58,1621.38,DSL,One year,Mailed check,Ya
+236,18,Wanita,24,92.85,2228.4,DSL,One year,Electronic check,Tidak
+237,36,Wanita,20,57.15,1143.0,DSL,Two year,Bank transfer (automatic),Tidak
+238,19,Wanita,37,31.0,1147.0,DSL,One year,Mailed check,Tidak
+239,61,Pria,4,47.27,189.08,Fiber optic,One year,Bank transfer (automatic),Tidak
+240,43,Pria,20,33.19,663.8,DSL,Month-to-month,Bank transfer (automatic),Ya
+241,49,Pria,60,33.65,2019.0,Fiber optic,Month-to-month,Electronic check,Tidak
+242,23,Pria,24,95.85,2300.4,No,One year,Electronic check,Tidak
+243,49,Wanita,50,55.62,2781.0,No,One year,Electronic check,Tidak
+244,21,Wanita,49,83.1,4071.9,DSL,Month-to-month,Bank transfer (automatic),Tidak
+245,28,Pria,51,71.17,3629.67,No,Two year,Bank transfer (automatic),Tidak
+246,34,Pria,36,74.11,2667.96,No,Two year,Bank transfer (automatic),Ya
+247,55,Wanita,66,30.54,2015.64,No,Two year,Electronic check,Tidak
+248,41,Pria,34,38.73,1316.82,DSL,Two year,Credit card (automatic),Ya
+249,22,Wanita,36,82.94,2985.84,DSL,Two year,Mailed check,Tidak
+250,69,Pria,6,97.66,585.96,No,Two year,Credit card (automatic),Tidak
+251,51,Pria,39,41.01,1599.39,Fiber optic,Two year,Bank transfer (automatic),Tidak
+252,23,Pria,42,41.73,1752.66,No,Two year,Bank transfer (automatic),Tidak
+253,39,Pria,58,57.83,3354.14,DSL,Month-to-month,Credit card (automatic),Tidak
+254,28,Pria,12,98.71,1184.52,DSL,Two year,Bank transfer (automatic),Tidak
+255,65,Pria,3,41.52,124.56,DSL,Two year,Mailed check,Tidak
+256,33,Pria,18,52.56,946.08,No,Two year,Bank transfer (automatic),Tidak
+257,50,Wanita,40,91.32,3652.8,Fiber optic,One year,Mailed check,Tidak
+258,26,Wanita,21,20.23,424.83,DSL,Month-to-month,Credit card (automatic),Tidak
+259,23,Wanita,15,23.18,347.7,DSL,Month-to-month,Credit card (automatic),Tidak
+260,33,Wanita,26,68.33,1776.58,No,Month-to-month,Bank transfer (automatic),Tidak
+261,46,Wanita,8,92.59,740.72,Fiber optic,Two year,Mailed check,Tidak
+262,20,Pria,42,39.11,1642.62,No,Two year,Bank transfer (automatic),Tidak
+263,37,Pria,44,57.57,2533.08,DSL,One year,Electronic check,Ya
+264,53,Wanita,14,56.04,784.56,Fiber optic,Month-to-month,Electronic check,Tidak
+265,36,Pria,2,57.84,115.68,Fiber optic,Two year,Electronic check,Tidak
+266,43,Wanita,37,69.8,2582.6,DSL,Month-to-month,Electronic check,Tidak
+267,20,Wanita,69,57.58,3973.02,Fiber optic,One year,Bank transfer (automatic),Tidak
+268,36,Pria,38,55.8,2120.4,Fiber optic,One year,Electronic check,Ya
+269,37,Pria,41,57.94,2375.54,No,One year,Mailed check,Tidak
+270,49,Pria,62,67.27,4170.74,DSL,Month-to-month,Credit card (automatic),Tidak
+271,24,Wanita,60,62.96,3777.6,DSL,Two year,Credit card (automatic),Tidak
+272,69,Pria,14,88.33,1236.62,DSL,Two year,Electronic check,Tidak
+273,58,Wanita,2,23.96,47.92,DSL,One year,Electronic check,Ya
+274,50,Wanita,70,86.67,6066.9,DSL,Two year,Electronic check,Ya
+275,57,Wanita,17,87.51,1487.67,Fiber optic,One year,Bank transfer (automatic),Tidak
+276,56,Pria,28,42.79,1198.12,No,Month-to-month,Credit card (automatic),Tidak
+277,35,Pria,66,57.03,3763.98,DSL,One year,Electronic check,Tidak
+278,57,Wanita,35,55.08,1927.8,No,Month-to-month,Mailed check,Ya
+279,18,Pria,5,37.48,187.4,No,One year,Electronic check,Tidak
+280,28,Pria,65,51.74,3363.1,Fiber optic,Two year,Credit card (automatic),Tidak
+281,45,Pria,40,23.55,942.0,DSL,Two year,Electronic check,Tidak
+282,42,Wanita,56,42.23,2364.88,Fiber optic,One year,Credit card (automatic),Ya
+283,67,Wanita,36,85.33,3071.88,DSL,Two year,Electronic check,Tidak
+284,40,Pria,45,42.76,1924.2,Fiber optic,Two year,Mailed check,Tidak
+285,48,Wanita,23,85.46,1965.58,No,Two year,Electronic check,Tidak
+286,47,Pria,47,62.53,2938.91,DSL,Month-to-month,Mailed check,Tidak
+287,59,Pria,31,90.39,2802.09,No,Two year,Mailed check,Tidak
+288,52,Pria,11,65.98,725.78,No,Month-to-month,Electronic check,Tidak
+289,24,Pria,10,22.37,223.7,Fiber optic,One year,Mailed check,Tidak
+290,33,Wanita,67,74.03,4960.01,DSL,Two year,Bank transfer (automatic),Ya
+291,43,Wanita,14,23.59,330.26,No,Two year,Electronic check,Tidak
+292,65,Wanita,10,56.05,560.5,Fiber optic,Two year,Electronic check,Ya
+293,69,Pria,1,94.35,94.35,DSL,One year,Mailed check,Tidak
+294,66,Pria,5,33.22,166.1,DSL,Month-to-month,Mailed check,Tidak
+295,19,Pria,20,51.19,1023.8,No,Month-to-month,Electronic check,Tidak
+296,18,Wanita,8,78.39,627.12,DSL,Two year,Bank transfer (automatic),Tidak
+297,65,Pria,43,90.58,3894.94,No,One year,Mailed check,Ya
+298,29,Wanita,1,73.68,73.68,DSL,One year,Mailed check,Tidak
+299,22,Wanita,57,40.65,2317.05,Fiber optic,One year,Credit card (automatic),Tidak
+300,54,Wanita,64,73.97,4734.08,No,One year,Bank transfer (automatic),Ya
+301,49,Wanita,28,43.74,1224.72,No,One year,Bank transfer (automatic),Tidak
+302,26,Wanita,37,77.47,2866.39,DSL,Month-to-month,Electronic check,Ya
+303,58,Wanita,47,96.32,4527.04,DSL,Month-to-month,Bank transfer (automatic),Tidak
+304,52,Pria,37,77.71,2875.27,No,Month-to-month,Electronic check,Tidak
+305,36,Pria,49,89.03,4362.47,DSL,Two year,Credit card (automatic),Ya
+306,65,Wanita,44,20.17,887.48,Fiber optic,One year,Bank transfer (automatic),Tidak
+307,33,Wanita,56,77.41,4334.96,DSL,Two year,Mailed check,Ya
+308,20,Pria,28,86.37,2418.36,Fiber optic,One year,Credit card (automatic),Ya
+309,37,Wanita,6,23.24,139.44,Fiber optic,Month-to-month,Electronic check,Ya
+310,41,Wanita,61,89.73,5473.53,Fiber optic,Two year,Credit card (automatic),Tidak
+311,50,Pria,20,40.54,810.8,Fiber optic,Month-to-month,Electronic check,Tidak
+312,41,Wanita,2,73.22,146.44,Fiber optic,One year,Credit card (automatic),Tidak
+313,69,Wanita,37,84.03,3109.11,DSL,One year,Electronic check,Ya
+314,28,Wanita,20,73.01,1460.2,Fiber optic,One year,Bank transfer (automatic),Ya
+315,66,Pria,26,27.38,711.88,DSL,Month-to-month,Mailed check,Tidak
+316,25,Pria,29,67.71,1963.59,Fiber optic,One year,Electronic check,Tidak
+317,53,Pria,1,63.97,63.97,No,Month-to-month,Credit card (automatic),Tidak
+318,55,Wanita,35,92.03,3221.05,Fiber optic,Two year,Electronic check,Ya
+319,57,Wanita,70,52.34,3663.8,No,One year,Electronic check,Tidak
+320,37,Pria,59,45.69,2695.71,Fiber optic,One year,Electronic check,Tidak
+321,52,Wanita,69,79.99,5519.31,Fiber optic,One year,Credit card (automatic),Tidak
+322,65,Wanita,33,53.01,1749.33,Fiber optic,Two year,Mailed check,Tidak
+323,42,Wanita,51,71.69,3656.19,No,One year,Bank transfer (automatic),Ya
+324,52,Wanita,12,71.72,860.64,No,Month-to-month,Mailed check,Tidak
+325,42,Wanita,20,91.04,1820.8,Fiber optic,Month-to-month,Electronic check,Tidak
+326,46,Pria,53,67.9,3598.7,DSL,One year,Credit card (automatic),Tidak
+327,35,Wanita,43,60.17,2587.31,Fiber optic,One year,Mailed check,Tidak
+328,63,Pria,50,31.11,1555.5,No,Two year,Electronic check,Tidak
+329,35,Wanita,29,29.26,848.54,Fiber optic,Two year,Bank transfer (automatic),Tidak
+330,19,Pria,57,32.35,1843.95,No,Two year,Bank transfer (automatic),Tidak
+331,52,Wanita,39,33.75,1316.25,No,One year,Bank transfer (automatic),Tidak
+332,33,Pria,56,71.03,3977.68,No,Two year,Electronic check,Tidak
+333,58,Wanita,43,79.28,3409.04,Fiber optic,Two year,Credit card (automatic),Tidak
+334,53,Pria,50,62.4,3120.0,No,Month-to-month,Mailed check,Tidak
+335,50,Wanita,23,86.32,1985.36,No,Two year,Bank transfer (automatic),Ya
+336,21,Pria,44,99.3,4369.2,Fiber optic,Month-to-month,Electronic check,Tidak
+337,50,Wanita,38,85.6,3252.8,No,Month-to-month,Electronic check,Tidak
+338,31,Pria,23,75.59,1738.57,Fiber optic,Two year,Mailed check,Ya
+339,38,Pria,45,62.6,2817.0,No,Month-to-month,Bank transfer (automatic),Tidak
+340,65,Wanita,52,55.91,2907.32,DSL,One year,Electronic check,Tidak
+341,37,Wanita,50,26.75,1337.5,DSL,One year,Mailed check,Tidak
+342,25,Pria,8,51.95,415.6,No,Two year,Credit card (automatic),Tidak
+343,24,Wanita,1,92.81,92.81,DSL,One year,Credit card (automatic),Tidak
+344,20,Pria,8,84.64,677.12,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+345,34,Pria,29,37.28,1081.12,DSL,One year,Bank transfer (automatic),Tidak
+346,50,Pria,5,57.33,286.65,No,Two year,Mailed check,Tidak
+347,65,Wanita,47,85.34,4010.98,No,Two year,Mailed check,Tidak
+348,29,Pria,34,25.39,863.26,Fiber optic,Month-to-month,Electronic check,Tidak
+349,68,Pria,65,50.99,3314.35,No,Two year,Electronic check,Tidak
+350,39,Wanita,55,88.15,4848.25,Fiber optic,One year,Electronic check,Ya
+351,39,Wanita,43,52.31,2249.33,DSL,Two year,Mailed check,Tidak
+352,63,Wanita,30,26.21,786.3,DSL,Month-to-month,Electronic check,Ya
+353,47,Wanita,17,63.4,1077.8,Fiber optic,Two year,Mailed check,Tidak
+354,55,Pria,26,88.94,2312.44,Fiber optic,One year,Mailed check,Tidak
+355,55,Pria,8,67.22,537.76,No,Month-to-month,Credit card (automatic),Tidak
+356,62,Pria,47,38.1,1790.7,DSL,One year,Electronic check,Tidak
+357,68,Pria,46,50.74,2334.04,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+358,25,Wanita,68,56.01,3808.68,DSL,Two year,Bank transfer (automatic),Tidak
+359,44,Pria,33,66.34,2189.22,Fiber optic,Month-to-month,Bank transfer (automatic),Ya
+360,44,Pria,1,80.75,80.75,DSL,Month-to-month,Bank transfer (automatic),Ya
+361,51,Wanita,19,27.91,530.29,No,Two year,Mailed check,Tidak
+362,38,Pria,31,91.17,2826.27,DSL,One year,Mailed check,Tidak
+363,47,Pria,14,20.98,293.72,DSL,Two year,Mailed check,Ya
+364,50,Pria,53,49.6,2628.8,DSL,Month-to-month,Electronic check,Tidak
+365,45,Pria,48,22.19,1065.12,DSL,Two year,Credit card (automatic),Tidak
+366,64,Pria,69,51.44,3549.36,DSL,Month-to-month,Mailed check,Ya
+367,50,Pria,62,62.07,3848.34,No,Two year,Credit card (automatic),Tidak
+368,22,Wanita,66,60.93,4021.38,Fiber optic,Two year,Credit card (automatic),Tidak
+369,65,Wanita,64,33.25,2128.0,DSL,One year,Credit card (automatic),Ya
+370,36,Pria,70,71.66,5016.2,No,Month-to-month,Electronic check,Tidak
+371,21,Pria,63,23.58,1485.54,DSL,One year,Electronic check,Tidak
+372,52,Wanita,33,80.95,2671.35,DSL,Month-to-month,Bank transfer (automatic),Tidak
+373,66,Pria,41,95.73,3924.93,Fiber optic,Two year,Bank transfer (automatic),Tidak
+374,34,Pria,48,47.18,2264.64,DSL,Month-to-month,Credit card (automatic),Tidak
+375,61,Pria,13,61.38,797.94,No,One year,Bank transfer (automatic),Tidak
+376,45,Wanita,31,50.31,1559.61,No,One year,Credit card (automatic),Ya
+377,47,Pria,68,20.54,1396.72,Fiber optic,One year,Electronic check,Tidak
+378,46,Wanita,4,50.87,203.48,DSL,Month-to-month,Electronic check,Tidak
+379,63,Pria,19,83.34,1583.46,No,One year,Electronic check,Ya
+380,23,Wanita,70,67.68,4737.6,DSL,One year,Mailed check,Tidak
+381,52,Wanita,13,28.1,365.3,DSL,One year,Credit card (automatic),Tidak
+382,58,Pria,23,87.77,2018.71,DSL,Two year,Electronic check,Tidak
+383,54,Wanita,1,62.49,62.49,Fiber optic,Two year,Credit card (automatic),Tidak
+384,41,Pria,54,87.34,4716.36,DSL,Month-to-month,Bank transfer (automatic),Tidak
+385,46,Wanita,71,66.42,4715.82,No,Month-to-month,Bank transfer (automatic),Tidak
+386,66,Pria,15,64.78,971.7,DSL,One year,Electronic check,Tidak
+387,63,Pria,65,28.42,1847.3,No,Two year,Credit card (automatic),Tidak
+388,48,Wanita,71,33.39,2370.69,DSL,One year,Electronic check,Tidak
+389,52,Pria,15,97.76,1466.4,No,One year,Bank transfer (automatic),Tidak
+390,50,Pria,21,38.28,803.88,No,Two year,Electronic check,Tidak
+391,69,Wanita,19,98.2,1865.8,DSL,Two year,Credit card (automatic),Tidak
+392,38,Pria,60,62.55,3753.0,DSL,Two year,Bank transfer (automatic),Tidak
+393,49,Pria,33,30.86,1018.38,No,Month-to-month,Mailed check,Tidak
+394,40,Wanita,49,27.94,1369.06,Fiber optic,Month-to-month,Bank transfer (automatic),Ya
+395,50,Wanita,35,36.71,1284.85,DSL,One year,Mailed check,Tidak
+396,20,Pria,44,94.05,4138.2,Fiber optic,Month-to-month,Electronic check,Tidak
+397,35,Pria,11,53.13,584.43,DSL,Two year,Electronic check,Ya
+398,42,Wanita,66,51.63,3407.58,DSL,Two year,Credit card (automatic),Tidak
+399,59,Wanita,46,45.06,2072.76,DSL,Month-to-month,Mailed check,Tidak
+400,48,Pria,9,31.76,285.84,DSL,One year,Electronic check,Tidak
+401,20,Wanita,3,59.03,177.09,Fiber optic,One year,Mailed check,Ya
+402,57,Pria,26,30.4,790.4,DSL,Month-to-month,Electronic check,Tidak
+403,63,Pria,48,86.84,4168.32,No,One year,Bank transfer (automatic),Tidak
+404,41,Pria,66,49.63,3275.58,No,One year,Electronic check,Ya
+405,67,Pria,70,49.98,3498.6,Fiber optic,One year,Credit card (automatic),Tidak
+406,49,Pria,28,57.92,1621.76,DSL,Two year,Bank transfer (automatic),Tidak
+407,64,Wanita,26,55.53,1443.78,No,Two year,Credit card (automatic),Tidak
+408,39,Wanita,25,99.59,2489.75,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+409,40,Wanita,12,63.63,763.56,DSL,Two year,Mailed check,Tidak
+410,19,Wanita,5,27.06,135.3,No,One year,Credit card (automatic),Tidak
+411,44,Pria,48,68.55,3290.4,No,Two year,Electronic check,Ya
+412,59,Pria,37,32.13,1188.81,Fiber optic,Month-to-month,Mailed check,Ya
+413,19,Pria,44,22.48,989.12,DSL,Two year,Electronic check,Tidak
+414,43,Pria,15,97.66,1464.9,DSL,One year,Bank transfer (automatic),Tidak
+415,34,Wanita,43,81.88,3520.84,No,One year,Bank transfer (automatic),Tidak
+416,57,Pria,48,98.41,4723.68,No,Month-to-month,Electronic check,Ya
+417,50,Pria,70,58.23,4076.1,No,Two year,Electronic check,Ya
+418,26,Wanita,46,62.58,2878.68,DSL,Two year,Mailed check,Tidak
+419,60,Wanita,43,33.47,1439.21,Fiber optic,Two year,Electronic check,Tidak
+420,65,Wanita,21,39.75,834.75,Fiber optic,One year,Credit card (automatic),Tidak
+421,56,Wanita,23,87.08,2002.84,DSL,Month-to-month,Credit card (automatic),Tidak
+422,46,Pria,47,48.49,2279.03,Fiber optic,Two year,Electronic check,Tidak
+423,59,Pria,15,86.15,1292.25,No,One year,Credit card (automatic),Ya
+424,43,Wanita,25,76.72,1918.0,Fiber optic,One year,Electronic check,Tidak
+425,52,Pria,36,34.17,1230.12,Fiber optic,One year,Mailed check,Tidak
+426,67,Pria,51,60.6,3090.6,Fiber optic,Two year,Credit card (automatic),Tidak
+427,42,Pria,15,74.19,1112.85,No,Two year,Credit card (automatic),Tidak
+428,41,Wanita,68,38.8,2638.4,DSL,Two year,Electronic check,Ya
+429,30,Pria,21,86.46,1815.66,No,Two year,Credit card (automatic),Ya
+430,24,Wanita,13,63.59,826.67,DSL,Two year,Bank transfer (automatic),Tidak
+431,53,Pria,19,33.22,631.18,DSL,Two year,Mailed check,Tidak
+432,62,Pria,34,66.64,2265.76,DSL,Two year,Mailed check,Ya
+433,37,Pria,68,99.98,6798.64,Fiber optic,Two year,Credit card (automatic),Ya
+434,18,Wanita,52,32.04,1666.08,Fiber optic,Two year,Credit card (automatic),Ya
+435,25,Pria,27,85.34,2304.18,DSL,One year,Bank transfer (automatic),Tidak
+436,63,Wanita,29,36.58,1060.82,DSL,Two year,Bank transfer (automatic),Ya
+437,33,Wanita,28,82.59,2312.52,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+438,31,Wanita,35,78.77,2756.95,No,One year,Credit card (automatic),Tidak
+439,29,Pria,8,44.04,352.32,DSL,Two year,Bank transfer (automatic),Tidak
+440,68,Pria,16,46.07,737.12,No,Month-to-month,Electronic check,Ya
+441,40,Pria,36,83.4,3002.4,Fiber optic,Two year,Bank transfer (automatic),Tidak
+442,32,Pria,30,56.92,1707.6,DSL,Month-to-month,Electronic check,Ya
+443,45,Wanita,18,78.47,1412.46,No,Month-to-month,Mailed check,Tidak
+444,51,Wanita,2,31.84,63.68,No,Month-to-month,Mailed check,Tidak
+445,19,Wanita,49,88.2,4321.8,No,Month-to-month,Bank transfer (automatic),Tidak
+446,49,Pria,4,76.87,307.48,Fiber optic,One year,Electronic check,Tidak
+447,40,Wanita,7,92.56,647.92,Fiber optic,One year,Bank transfer (automatic),Tidak
+448,39,Pria,39,30.59,1193.01,No,Month-to-month,Bank transfer (automatic),Tidak
+449,68,Wanita,13,67.44,876.72,No,Two year,Electronic check,Tidak
+450,42,Pria,31,67.93,2105.83,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+451,39,Pria,71,48.28,3427.88,No,One year,Mailed check,Tidak
+452,39,Wanita,63,56.68,3570.84,No,Two year,Credit card (automatic),Tidak
+453,66,Wanita,56,23.04,1290.24,Fiber optic,One year,Credit card (automatic),Tidak
+454,69,Wanita,42,79.67,3346.14,No,One year,Bank transfer (automatic),Tidak
+455,59,Wanita,61,63.95,3900.95,No,Two year,Electronic check,Tidak
+456,23,Pria,42,24.62,1034.04,No,Month-to-month,Electronic check,Tidak
+457,32,Wanita,56,74.46,4169.76,Fiber optic,Month-to-month,Mailed check,Tidak
+458,60,Wanita,36,57.34,2064.24,No,Month-to-month,Electronic check,Tidak
+459,54,Wanita,68,22.76,1547.68,Fiber optic,Month-to-month,Electronic check,Ya
+460,50,Pria,7,97.57,682.99,Fiber optic,Two year,Mailed check,Tidak
+461,25,Pria,54,95.93,5180.22,DSL,Two year,Bank transfer (automatic),Tidak
+462,61,Wanita,1,61.03,61.03,DSL,Two year,Credit card (automatic),Tidak
+463,61,Pria,44,27.49,1209.56,No,One year,Mailed check,Tidak
+464,22,Wanita,45,80.37,3616.65,Fiber optic,Two year,Bank transfer (automatic),Tidak
+465,56,Pria,47,59.35,2789.45,DSL,Month-to-month,Mailed check,Ya
+466,21,Pria,13,44.2,574.6,No,One year,Bank transfer (automatic),Tidak
+467,23,Pria,22,59.31,1304.82,DSL,Month-to-month,Mailed check,Ya
+468,62,Pria,21,61.8,1297.8,DSL,Month-to-month,Bank transfer (automatic),Ya
+469,49,Wanita,9,65.02,585.18,Fiber optic,Two year,Mailed check,Tidak
+470,69,Wanita,26,55.3,1437.8,Fiber optic,Two year,Bank transfer (automatic),Tidak
+471,47,Wanita,9,68.46,616.14,DSL,Month-to-month,Mailed check,Tidak
+472,64,Pria,15,93.5,1402.5,DSL,Month-to-month,Credit card (automatic),Tidak
+473,52,Wanita,10,48.98,489.8,Fiber optic,One year,Credit card (automatic),Ya
+474,57,Wanita,42,78.06,3278.52,No,Two year,Electronic check,Tidak
+475,69,Wanita,24,91.56,2197.44,Fiber optic,One year,Bank transfer (automatic),Tidak
+476,33,Pria,49,56.48,2767.52,DSL,One year,Mailed check,Tidak
+477,30,Pria,26,55.48,1442.48,No,One year,Bank transfer (automatic),Tidak
+478,67,Pria,37,68.17,2522.29,DSL,Month-to-month,Credit card (automatic),Tidak
+479,59,Wanita,68,67.31,4577.08,No,One year,Bank transfer (automatic),Tidak
+480,47,Wanita,50,84.53,4226.5,DSL,One year,Mailed check,Ya
+481,36,Wanita,24,58.12,1394.88,No,Month-to-month,Bank transfer (automatic),Tidak
+482,34,Pria,19,99.69,1894.11,No,Two year,Mailed check,Tidak
+483,36,Pria,60,24.76,1485.6,DSL,Two year,Credit card (automatic),Ya
+484,45,Wanita,39,20.25,789.75,No,One year,Credit card (automatic),Ya
+485,43,Pria,18,71.22,1281.96,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+486,54,Pria,19,43.87,833.53,DSL,Two year,Electronic check,Tidak
+487,43,Pria,36,39.23,1412.28,Fiber optic,One year,Credit card (automatic),Ya
+488,40,Pria,55,44.95,2472.25,DSL,One year,Bank transfer (automatic),Tidak
+489,26,Wanita,69,40.48,2793.12,No,Month-to-month,Electronic check,Tidak
+490,29,Pria,47,22.46,1055.62,No,One year,Credit card (automatic),Tidak
+491,18,Pria,49,97.72,4788.28,No,Two year,Bank transfer (automatic),Tidak
+492,18,Pria,33,37.66,1242.78,DSL,Month-to-month,Bank transfer (automatic),Tidak
+493,64,Pria,21,78.72,1653.12,Fiber optic,Two year,Bank transfer (automatic),Tidak
+494,51,Wanita,22,81.01,1782.22,Fiber optic,Two year,Mailed check,Tidak
+495,49,Wanita,48,94.34,4528.32,DSL,Two year,Electronic check,Tidak
+496,65,Pria,37,22.44,830.28,DSL,One year,Bank transfer (automatic),Tidak
+497,42,Pria,15,89.76,1346.4,Fiber optic,One year,Mailed check,Ya
+498,57,Pria,35,62.18,2176.3,Fiber optic,Two year,Credit card (automatic),Tidak
+499,62,Pria,71,70.6,5012.6,Fiber optic,Two year,Bank transfer (automatic),Tidak
+500,18,Pria,32,71.56,2289.92,Fiber optic,Month-to-month,Mailed check,Tidak
+501,33,Pria,11,85.58,941.38,DSL,Month-to-month,Bank transfer (automatic),Tidak
+502,56,Wanita,10,46.67,466.7,DSL,One year,Electronic check,Ya
+503,22,Pria,57,78.64,4482.48,No,One year,Electronic check,Tidak
+504,39,Wanita,25,62.29,1557.25,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+505,46,Wanita,2,83.47,166.94,No,Two year,Bank transfer (automatic),Tidak
+506,20,Pria,64,99.24,6351.36,DSL,One year,Mailed check,Tidak
+507,29,Wanita,35,36.05,1261.75,DSL,Two year,Credit card (automatic),Tidak
+508,43,Wanita,7,99.57,696.99,No,Month-to-month,Bank transfer (automatic),Tidak
+509,33,Wanita,18,27.18,489.24,Fiber optic,One year,Credit card (automatic),Tidak
+510,68,Wanita,67,20.19,1352.73,Fiber optic,One year,Mailed check,Ya
+511,54,Wanita,42,23.53,988.26,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+512,39,Wanita,39,47.34,1846.26,Fiber optic,One year,Credit card (automatic),Tidak
+513,46,Pria,41,70.63,2895.83,No,Month-to-month,Credit card (automatic),Tidak
+514,31,Wanita,24,25.52,612.48,No,One year,Bank transfer (automatic),Tidak
+515,45,Wanita,60,20.45,1227.0,DSL,Month-to-month,Mailed check,Tidak
+516,22,Wanita,46,94.97,4368.62,Fiber optic,One year,Electronic check,Tidak
+517,64,Pria,19,85.75,1629.25,Fiber optic,Two year,Bank transfer (automatic),Tidak
+518,66,Wanita,68,84.73,5761.64,Fiber optic,Two year,Electronic check,Tidak
+519,47,Pria,42,90.75,3811.5,No,Two year,Electronic check,Tidak
+520,63,Wanita,32,76.0,2432.0,Fiber optic,One year,Bank transfer (automatic),Ya
+521,69,Pria,39,28.35,1105.65,No,One year,Bank transfer (automatic),Ya
+522,22,Pria,36,51.93,1869.48,Fiber optic,Two year,Mailed check,Tidak
+523,29,Wanita,36,77.85,2802.6,Fiber optic,Two year,Mailed check,Tidak
+524,33,Wanita,3,42.43,127.29,DSL,Month-to-month,Credit card (automatic),Ya
+525,43,Pria,8,74.99,599.92,Fiber optic,Month-to-month,Electronic check,Tidak
+526,43,Wanita,70,21.96,1537.2,Fiber optic,Month-to-month,Mailed check,Tidak
+527,65,Pria,41,44.49,1824.09,DSL,Two year,Credit card (automatic),Tidak
+528,38,Pria,68,63.93,4347.24,No,Two year,Mailed check,Tidak
+529,56,Pria,13,70.57,917.41,No,Two year,Bank transfer (automatic),Tidak
+530,53,Pria,49,66.16,3241.84,Fiber optic,Month-to-month,Mailed check,Tidak
+531,50,Pria,60,75.82,4549.2,No,One year,Electronic check,Ya
+532,47,Wanita,2,20.49,40.98,Fiber optic,Two year,Mailed check,Tidak
+533,54,Pria,60,28.08,1684.8,DSL,One year,Electronic check,Tidak
+534,40,Pria,5,89.52,447.6,DSL,One year,Bank transfer (automatic),Tidak
+535,27,Wanita,44,74.54,3279.76,Fiber optic,One year,Electronic check,Tidak
+536,22,Pria,27,29.03,783.81,DSL,Month-to-month,Mailed check,Tidak
+537,53,Wanita,32,87.37,2795.84,DSL,One year,Credit card (automatic),Ya
+538,51,Wanita,21,39.38,826.98,Fiber optic,Two year,Bank transfer (automatic),Tidak
+539,69,Wanita,8,58.26,466.08,Fiber optic,Month-to-month,Mailed check,Tidak
+540,48,Pria,50,31.62,1581.0,DSL,Two year,Bank transfer (automatic),Tidak
+541,27,Pria,67,76.81,5146.27,No,Two year,Bank transfer (automatic),Ya
+542,36,Pria,44,73.35,3227.4,No,Month-to-month,Mailed check,Tidak
+543,49,Wanita,58,36.89,2139.62,Fiber optic,Two year,Mailed check,Tidak
+544,18,Pria,3,89.07,267.21,Fiber optic,Two year,Credit card (automatic),Ya
+545,22,Wanita,70,52.1,3647.0,No,Month-to-month,Bank transfer (automatic),Tidak
+546,62,Pria,2,43.4,86.8,DSL,Two year,Bank transfer (automatic),Tidak
+547,21,Wanita,44,32.19,1416.36,No,One year,Mailed check,Tidak
+548,33,Pria,2,41.29,82.58,No,Two year,Electronic check,Tidak
+549,41,Pria,35,21.76,761.6,No,One year,Mailed check,Tidak
+550,33,Pria,30,66.66,1999.8,No,Two year,Bank transfer (automatic),Tidak
+551,19,Wanita,8,87.38,699.04,Fiber optic,Month-to-month,Mailed check,Tidak
+552,66,Wanita,22,63.92,1406.24,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+553,45,Pria,44,37.54,1651.76,DSL,Two year,Electronic check,Tidak
+554,49,Pria,58,22.69,1316.02,DSL,Month-to-month,Mailed check,Ya
+555,44,Wanita,36,37.17,1338.12,DSL,Two year,Credit card (automatic),Ya
+556,37,Wanita,69,53.29,3677.01,DSL,Month-to-month,Bank transfer (automatic),Tidak
+557,41,Wanita,31,80.77,2503.87,No,One year,Mailed check,Tidak
+558,29,Pria,47,35.03,1646.41,Fiber optic,Two year,Bank transfer (automatic),Tidak
+559,67,Wanita,55,77.58,4266.9,Fiber optic,One year,Credit card (automatic),Tidak
+560,52,Pria,62,89.35,5539.7,DSL,One year,Bank transfer (automatic),Tidak
+561,50,Wanita,30,56.32,1689.6,DSL,Two year,Credit card (automatic),Ya
+562,50,Pria,55,85.71,4714.05,No,One year,Credit card (automatic),Tidak
+563,68,Wanita,16,64.37,1029.92,No,Two year,Credit card (automatic),Tidak
+564,60,Wanita,12,70.97,851.64,DSL,One year,Mailed check,Tidak
+565,54,Wanita,17,62.1,1055.7,Fiber optic,Two year,Bank transfer (automatic),Tidak
+566,29,Wanita,16,57.05,912.8,Fiber optic,Two year,Bank transfer (automatic),Tidak
+567,20,Wanita,12,38.77,465.24,Fiber optic,Month-to-month,Electronic check,Tidak
+568,18,Pria,8,44.26,354.08,DSL,Two year,Electronic check,Ya
+569,50,Wanita,3,43.2,129.6,Fiber optic,Two year,Electronic check,Tidak
+570,57,Wanita,16,65.06,1040.96,No,One year,Electronic check,Tidak
+571,27,Wanita,30,29.6,888.0,No,Two year,Bank transfer (automatic),Tidak
+572,60,Pria,23,93.34,2146.82,DSL,Month-to-month,Credit card (automatic),Ya
+573,61,Wanita,5,77.65,388.25,No,One year,Credit card (automatic),Tidak
+574,46,Pria,65,52.12,3387.8,DSL,One year,Mailed check,Ya
+575,30,Wanita,30,32.69,980.7,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+576,29,Wanita,21,90.56,1901.76,Fiber optic,One year,Bank transfer (automatic),Tidak
+577,48,Pria,70,85.9,6013.0,Fiber optic,One year,Bank transfer (automatic),Ya
+578,63,Wanita,22,77.74,1710.28,No,One year,Bank transfer (automatic),Tidak
+579,19,Pria,32,41.72,1335.04,DSL,One year,Mailed check,Ya
+580,68,Pria,33,52.2,1722.6,Fiber optic,Month-to-month,Electronic check,Tidak
+581,67,Wanita,16,28.22,451.52,DSL,Month-to-month,Credit card (automatic),Tidak
+582,52,Pria,38,35.12,1334.56,Fiber optic,One year,Bank transfer (automatic),Ya
+583,40,Wanita,14,82.64,1156.96,No,One year,Bank transfer (automatic),Ya
+584,34,Wanita,36,77.2,2779.2,No,Month-to-month,Electronic check,Tidak
+585,43,Pria,23,67.48,1552.04,DSL,Month-to-month,Bank transfer (automatic),Ya
+586,25,Pria,66,91.66,6049.56,No,Month-to-month,Credit card (automatic),Ya
+587,46,Pria,2,66.66,133.32,No,One year,Mailed check,Tidak
+588,43,Pria,65,57.36,3728.4,DSL,One year,Bank transfer (automatic),Tidak
+589,27,Wanita,67,47.23,3164.41,Fiber optic,Two year,Credit card (automatic),Tidak
+590,43,Wanita,52,95.24,4952.48,No,Month-to-month,Bank transfer (automatic),Ya
+591,51,Pria,62,26.62,1650.44,DSL,One year,Electronic check,Tidak
+592,68,Wanita,23,94.47,2172.81,No,Month-to-month,Bank transfer (automatic),Ya
+593,58,Wanita,26,86.14,2239.64,No,One year,Bank transfer (automatic),Ya
+594,24,Wanita,68,30.39,2066.52,No,Month-to-month,Mailed check,Tidak
+595,21,Wanita,55,65.2,3586.0,No,One year,Electronic check,Tidak
+596,67,Pria,6,89.32,535.92,DSL,Two year,Electronic check,Ya
+597,62,Pria,35,65.74,2300.9,DSL,Two year,Mailed check,Tidak
+598,28,Wanita,22,92.58,2036.76,DSL,Month-to-month,Bank transfer (automatic),Tidak
+599,46,Pria,43,95.44,4103.92,No,One year,Credit card (automatic),Tidak
+600,53,Pria,15,53.79,806.85,No,One year,Electronic check,Tidak
+601,42,Pria,60,50.19,3011.4,No,Month-to-month,Electronic check,Tidak
+602,38,Wanita,12,94.91,1138.92,DSL,One year,Bank transfer (automatic),Ya
+603,53,Wanita,49,74.01,3626.49,No,Month-to-month,Bank transfer (automatic),Ya
+604,27,Wanita,42,29.28,1229.76,Fiber optic,One year,Electronic check,Tidak
+605,54,Pria,38,23.38,888.44,No,Month-to-month,Bank transfer (automatic),Tidak
+606,26,Wanita,45,65.17,2932.65,Fiber optic,One year,Credit card (automatic),Tidak
+607,41,Wanita,35,94.41,3304.35,No,Month-to-month,Electronic check,Tidak
+608,52,Pria,30,87.54,2626.2,DSL,One year,Credit card (automatic),Tidak
+609,66,Wanita,30,74.07,2222.1,No,Two year,Credit card (automatic),Tidak
+610,52,Wanita,6,31.13,186.78,Fiber optic,One year,Bank transfer (automatic),Tidak
+611,65,Pria,67,40.34,2702.78,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+612,53,Pria,7,90.04,630.28,No,Two year,Bank transfer (automatic),Tidak
+613,35,Pria,52,34.62,1800.24,Fiber optic,One year,Mailed check,Ya
+614,66,Wanita,14,42.28,591.92,Fiber optic,Two year,Bank transfer (automatic),Tidak
+615,56,Wanita,15,30.37,455.55,DSL,One year,Credit card (automatic),Ya
+616,49,Wanita,21,74.09,1555.89,No,Two year,Mailed check,Tidak
+617,41,Pria,35,95.52,3343.2,No,Month-to-month,Bank transfer (automatic),Tidak
+618,40,Pria,66,41.52,2740.32,No,One year,Credit card (automatic),Tidak
+619,49,Wanita,2,58.03,116.06,Fiber optic,One year,Electronic check,Tidak
+620,54,Wanita,35,70.75,2476.25,No,Month-to-month,Electronic check,Tidak
+621,29,Pria,20,99.96,1999.2,No,Two year,Bank transfer (automatic),Tidak
+622,66,Pria,10,28.38,283.8,DSL,Month-to-month,Bank transfer (automatic),Tidak
+623,30,Pria,25,59.89,1497.25,DSL,Month-to-month,Electronic check,Tidak
+624,40,Pria,66,50.81,3353.46,DSL,Two year,Credit card (automatic),Tidak
+625,42,Wanita,25,89.27,2231.75,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+626,52,Pria,54,58.08,3136.32,No,One year,Credit card (automatic),Tidak
+627,58,Wanita,33,28.88,953.04,DSL,One year,Bank transfer (automatic),Ya
+628,47,Wanita,36,70.75,2547.0,DSL,One year,Mailed check,Tidak
+629,34,Wanita,14,81.66,1143.24,DSL,Month-to-month,Mailed check,Tidak
+630,66,Pria,65,20.23,1314.95,No,One year,Mailed check,Tidak
+631,37,Pria,54,88.72,4790.88,No,One year,Mailed check,Ya
+632,65,Pria,52,34.88,1813.76,No,One year,Mailed check,Tidak
+633,42,Pria,3,64.17,192.51,Fiber optic,One year,Bank transfer (automatic),Tidak
+634,39,Wanita,41,53.26,2183.66,Fiber optic,One year,Bank transfer (automatic),Tidak
+635,30,Pria,6,77.57,465.42,DSL,One year,Mailed check,Tidak
+636,36,Pria,25,49.69,1242.25,No,Month-to-month,Bank transfer (automatic),Tidak
+637,66,Wanita,13,89.58,1164.54,DSL,One year,Bank transfer (automatic),Tidak
+638,53,Pria,8,78.44,627.52,No,One year,Mailed check,Tidak
+639,29,Wanita,21,71.82,1508.22,No,Two year,Credit card (automatic),Tidak
+640,58,Wanita,68,83.7,5691.6,No,Month-to-month,Bank transfer (automatic),Tidak
+641,36,Wanita,25,80.32,2008.0,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+642,29,Wanita,68,22.88,1555.84,Fiber optic,Month-to-month,Bank transfer (automatic),Ya
+643,26,Wanita,45,51.58,2321.1,No,Month-to-month,Bank transfer (automatic),Ya
+644,24,Wanita,60,94.46,5667.6,DSL,One year,Mailed check,Tidak
+645,45,Wanita,12,30.06,360.72,No,One year,Bank transfer (automatic),Tidak
+646,31,Wanita,32,78.97,2527.04,No,Two year,Electronic check,Ya
+647,48,Pria,13,97.97,1273.61,DSL,Two year,Electronic check,Tidak
+648,69,Pria,31,24.18,749.58,No,Month-to-month,Mailed check,Tidak
+649,36,Pria,20,74.58,1491.6,DSL,Two year,Credit card (automatic),Tidak
+650,64,Pria,18,57.45,1034.1,Fiber optic,Two year,Credit card (automatic),Tidak
+651,33,Wanita,60,66.33,3979.8,Fiber optic,Month-to-month,Credit card (automatic),Ya
+652,22,Pria,63,26.83,1690.29,DSL,Month-to-month,Electronic check,Tidak
+653,52,Wanita,6,23.44,140.64,Fiber optic,Two year,Credit card (automatic),Tidak
+654,29,Pria,32,73.35,2347.2,Fiber optic,One year,Credit card (automatic),Tidak
+655,42,Pria,43,85.86,3691.98,DSL,Two year,Mailed check,Ya
+656,69,Pria,2,82.56,165.12,Fiber optic,Two year,Credit card (automatic),Tidak
+657,38,Wanita,60,63.5,3810.0,No,One year,Electronic check,Tidak
+658,53,Pria,23,27.99,643.77,No,One year,Electronic check,Tidak
+659,40,Wanita,31,75.04,2326.24,DSL,Month-to-month,Electronic check,Ya
+660,33,Wanita,5,39.35,196.75,Fiber optic,Month-to-month,Mailed check,Tidak
+661,56,Pria,34,92.89,3158.26,No,Two year,Mailed check,Tidak
+662,62,Pria,10,87.06,870.6,No,One year,Bank transfer (automatic),Tidak
+663,59,Pria,2,76.75,153.5,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+664,56,Wanita,11,95.91,1055.01,Fiber optic,Two year,Mailed check,Tidak
+665,31,Pria,50,22.51,1125.5,No,One year,Electronic check,Tidak
+666,48,Wanita,31,78.9,2445.9,No,Two year,Electronic check,Ya
+667,22,Wanita,56,46.42,2599.52,DSL,Month-to-month,Mailed check,Tidak
+668,52,Pria,9,92.49,832.41,DSL,Month-to-month,Mailed check,Ya
+669,40,Pria,21,41.33,867.93,No,One year,Mailed check,Tidak
+670,46,Wanita,28,77.99,2183.72,DSL,Two year,Bank transfer (automatic),Tidak
+671,60,Wanita,62,90.21,5593.02,No,One year,Electronic check,Tidak
+672,28,Wanita,7,23.33,163.31,No,Month-to-month,Bank transfer (automatic),Ya
+673,35,Pria,16,51.81,828.96,DSL,Month-to-month,Bank transfer (automatic),Tidak
+674,64,Wanita,4,80.98,323.92,DSL,Two year,Credit card (automatic),Tidak
+675,29,Pria,4,56.39,225.56,Fiber optic,Two year,Electronic check,Ya
+676,26,Wanita,40,41.38,1655.2,Fiber optic,Two year,Electronic check,Ya
+677,27,Wanita,17,37.58,638.86,Fiber optic,One year,Mailed check,Ya
+678,61,Pria,52,30.52,1587.04,No,Two year,Mailed check,Tidak
+679,34,Wanita,52,88.57,4605.64,DSL,Two year,Credit card (automatic),Tidak
+680,55,Pria,36,66.03,2377.08,No,Month-to-month,Bank transfer (automatic),Tidak
+681,24,Pria,38,26.11,992.18,DSL,Month-to-month,Mailed check,Ya
+682,63,Wanita,50,50.61,2530.5,No,Two year,Mailed check,Tidak
+683,30,Pria,63,49.42,3113.46,Fiber optic,Two year,Electronic check,Tidak
+684,57,Pria,63,34.54,2176.02,Fiber optic,Month-to-month,Electronic check,Tidak
+685,59,Wanita,62,54.84,3400.08,Fiber optic,Two year,Mailed check,Tidak
+686,26,Pria,7,46.57,325.99,No,One year,Electronic check,Ya
+687,67,Pria,27,47.34,1278.18,DSL,One year,Credit card (automatic),Ya
+688,44,Pria,14,79.12,1107.68,DSL,One year,Mailed check,Ya
+689,19,Wanita,71,37.86,2688.06,Fiber optic,Two year,Electronic check,Tidak
+690,22,Pria,5,71.35,356.75,Fiber optic,Month-to-month,Credit card (automatic),Ya
+691,46,Wanita,55,65.65,3610.75,Fiber optic,Two year,Electronic check,Tidak
+692,54,Wanita,2,65.45,130.9,Fiber optic,Two year,Electronic check,Tidak
+693,55,Pria,62,73.04,4528.48,DSL,Month-to-month,Electronic check,Tidak
+694,36,Pria,21,63.87,1341.27,No,Month-to-month,Mailed check,Tidak
+695,25,Pria,21,90.34,1897.14,No,Month-to-month,Bank transfer (automatic),Tidak
+696,65,Wanita,10,74.05,740.5,No,One year,Electronic check,Tidak
+697,62,Pria,58,63.76,3698.08,No,Two year,Credit card (automatic),Ya
+698,18,Pria,39,86.38,3368.82,Fiber optic,Month-to-month,Mailed check,Tidak
+699,39,Pria,5,68.49,342.45,Fiber optic,Two year,Mailed check,Tidak
+700,69,Pria,65,43.29,2813.85,Fiber optic,One year,Credit card (automatic),Tidak
+701,34,Pria,13,36.57,475.41,No,One year,Electronic check,Tidak
+702,24,Wanita,53,32.19,1706.07,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+703,42,Wanita,45,91.96,4138.2,Fiber optic,Month-to-month,Electronic check,Tidak
+704,62,Pria,32,76.81,2457.92,DSL,Two year,Credit card (automatic),Tidak
+705,21,Pria,36,94.99,3419.64,DSL,Month-to-month,Mailed check,Tidak
+706,53,Pria,60,68.26,4095.6,Fiber optic,Two year,Bank transfer (automatic),Ya
+707,23,Pria,11,57.87,636.57,DSL,Month-to-month,Mailed check,Tidak
+708,48,Wanita,63,24.78,1561.14,DSL,Two year,Credit card (automatic),Tidak
+709,36,Pria,21,73.73,1548.33,Fiber optic,Two year,Electronic check,Tidak
+710,61,Wanita,52,66.58,3462.16,Fiber optic,Two year,Bank transfer (automatic),Tidak
+711,56,Wanita,55,99.22,5457.1,Fiber optic,Two year,Mailed check,Tidak
+712,44,Pria,26,39.13,1017.38,Fiber optic,One year,Mailed check,Ya
+713,27,Wanita,68,62.46,4247.28,No,Two year,Mailed check,Tidak
+714,43,Wanita,34,72.08,2450.72,No,Month-to-month,Electronic check,Tidak
+715,36,Wanita,52,71.57,3721.64,Fiber optic,One year,Bank transfer (automatic),Tidak
+716,56,Wanita,52,64.9,3374.8,DSL,One year,Electronic check,Ya
+717,20,Pria,29,82.15,2382.35,Fiber optic,Two year,Electronic check,Tidak
+718,62,Pria,38,36.4,1383.2,Fiber optic,One year,Electronic check,Tidak
+719,30,Wanita,42,78.05,3278.1,DSL,Two year,Credit card (automatic),Tidak
+720,67,Pria,21,69.58,1461.18,No,Month-to-month,Credit card (automatic),Tidak
+721,45,Pria,42,91.69,3850.98,Fiber optic,Two year,Credit card (automatic),Ya
+722,37,Pria,13,87.78,1141.14,Fiber optic,One year,Bank transfer (automatic),Tidak
+723,45,Pria,64,45.21,2893.44,No,Month-to-month,Electronic check,Tidak
+724,25,Pria,17,42.1,715.7,No,Two year,Electronic check,Tidak
+725,58,Wanita,9,98.53,886.77,DSL,Month-to-month,Credit card (automatic),Tidak
+726,56,Pria,41,62.18,2549.38,No,Month-to-month,Electronic check,Ya
+727,18,Pria,1,92.51,92.51,No,One year,Electronic check,Tidak
+728,20,Pria,2,33.11,66.22,No,Month-to-month,Mailed check,Tidak
+729,30,Pria,60,71.43,4285.8,DSL,One year,Electronic check,Tidak
+730,45,Wanita,48,84.79,4069.92,No,Month-to-month,Mailed check,Tidak
+731,66,Wanita,29,95.79,2777.91,No,Two year,Electronic check,Tidak
+732,42,Wanita,10,46.99,469.9,DSL,Month-to-month,Bank transfer (automatic),Tidak
+733,50,Wanita,58,78.0,4524.0,No,Two year,Credit card (automatic),Ya
+734,55,Pria,60,63.11,3786.6,No,Two year,Mailed check,Tidak
+735,23,Wanita,21,24.85,521.85,DSL,Month-to-month,Credit card (automatic),Tidak
+736,61,Pria,28,75.2,2105.6,Fiber optic,Two year,Mailed check,Tidak
+737,62,Pria,34,75.21,2557.14,DSL,Month-to-month,Mailed check,Tidak
+738,49,Pria,8,94.45,755.6,No,Month-to-month,Mailed check,Tidak
+739,62,Pria,59,59.78,3527.02,No,Two year,Bank transfer (automatic),Tidak
+740,64,Pria,49,38.42,1882.58,No,Two year,Electronic check,Tidak
+741,38,Wanita,17,23.57,400.69,DSL,One year,Mailed check,Tidak
+742,33,Wanita,60,53.25,3195.0,No,Two year,Bank transfer (automatic),Tidak
+743,38,Wanita,45,44.15,1986.75,No,One year,Mailed check,Ya
+744,28,Wanita,69,80.89,5581.41,DSL,Two year,Electronic check,Tidak
+745,54,Pria,32,48.34,1546.88,Fiber optic,Month-to-month,Mailed check,Ya
+746,53,Wanita,44,95.93,4220.92,Fiber optic,Two year,Bank transfer (automatic),Tidak
+747,52,Pria,65,96.98,6303.7,No,Month-to-month,Electronic check,Tidak
+748,36,Wanita,8,69.67,557.36,DSL,Month-to-month,Bank transfer (automatic),Tidak
+749,37,Pria,43,94.29,4054.47,No,Month-to-month,Electronic check,Tidak
+750,35,Pria,1,80.87,80.87,DSL,One year,Electronic check,Tidak
+751,64,Wanita,51,63.75,3251.25,DSL,Two year,Credit card (automatic),Ya
+752,58,Pria,24,34.42,826.08,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+753,66,Pria,24,56.69,1360.56,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+754,31,Wanita,17,64.87,1102.79,DSL,One year,Electronic check,Ya
+755,32,Pria,5,89.12,445.6,No,Two year,Mailed check,Tidak
+756,48,Wanita,20,58.51,1170.2,Fiber optic,Two year,Bank transfer (automatic),Tidak
+757,18,Wanita,21,91.81,1928.01,No,One year,Bank transfer (automatic),Tidak
+758,20,Wanita,58,73.95,4289.1,Fiber optic,One year,Bank transfer (automatic),Ya
+759,33,Pria,31,30.96,959.76,Fiber optic,Two year,Credit card (automatic),Tidak
+760,40,Pria,11,99.6,1095.6,No,One year,Electronic check,Ya
+761,28,Pria,52,62.18,3233.36,Fiber optic,Two year,Credit card (automatic),Ya
+762,29,Wanita,15,51.35,770.25,Fiber optic,Two year,Mailed check,Tidak
+763,27,Pria,7,72.73,509.11,No,Month-to-month,Electronic check,Tidak
+764,49,Wanita,28,28.71,803.88,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+765,33,Wanita,51,70.92,3616.92,Fiber optic,Two year,Credit card (automatic),Ya
+766,25,Pria,58,59.86,3471.88,Fiber optic,Two year,Credit card (automatic),Tidak
+767,55,Wanita,5,52.53,262.65,No,Two year,Mailed check,Tidak
+768,29,Pria,5,96.24,481.2,DSL,Two year,Mailed check,Tidak
+769,41,Pria,8,61.8,494.4,No,Two year,Credit card (automatic),Tidak
+770,45,Pria,64,37.53,2401.92,DSL,Two year,Mailed check,Ya
+771,25,Pria,10,56.72,567.2,Fiber optic,One year,Bank transfer (automatic),Tidak
+772,45,Pria,38,93.55,3554.9,DSL,Two year,Mailed check,Tidak
+773,53,Wanita,8,34.09,272.72,No,One year,Mailed check,Ya
+774,43,Wanita,25,37.12,928.0,No,One year,Credit card (automatic),Ya
+775,25,Wanita,66,21.04,1388.64,Fiber optic,Two year,Credit card (automatic),Ya
+776,67,Pria,50,21.14,1057.0,DSL,Two year,Electronic check,Ya
+777,45,Pria,67,86.35,5785.45,Fiber optic,One year,Electronic check,Tidak
+778,45,Pria,49,78.57,3849.93,Fiber optic,One year,Credit card (automatic),Tidak
+779,54,Wanita,36,48.4,1742.4,No,Two year,Mailed check,Ya
+780,58,Pria,68,75.86,5158.48,DSL,Two year,Mailed check,Ya
+781,53,Wanita,41,51.62,2116.42,DSL,One year,Electronic check,Tidak
+782,44,Wanita,62,96.23,5966.26,DSL,One year,Electronic check,Tidak
+783,34,Pria,10,97.36,973.6,DSL,One year,Electronic check,Tidak
+784,26,Pria,21,51.42,1079.82,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+785,50,Wanita,36,88.34,3180.24,Fiber optic,One year,Bank transfer (automatic),Tidak
+786,37,Pria,12,81.85,982.2,No,Month-to-month,Electronic check,Tidak
+787,30,Wanita,2,44.8,89.6,Fiber optic,Two year,Mailed check,Ya
+788,45,Pria,13,38.56,501.28,Fiber optic,Two year,Electronic check,Tidak
+789,65,Pria,53,56.66,3002.98,No,One year,Bank transfer (automatic),Tidak
+790,46,Wanita,32,82.51,2640.32,No,Two year,Mailed check,Tidak
+791,30,Pria,16,96.81,1548.96,No,Two year,Bank transfer (automatic),Tidak
+792,63,Wanita,32,81.09,2594.88,Fiber optic,Two year,Mailed check,Tidak
+793,52,Pria,32,88.42,2829.44,Fiber optic,Two year,Bank transfer (automatic),Ya
+794,23,Wanita,11,68.25,750.75,No,Month-to-month,Mailed check,Tidak
+795,35,Wanita,10,86.83,868.3,No,Month-to-month,Mailed check,Ya
+796,68,Pria,15,82.75,1241.25,No,One year,Mailed check,Ya
+797,22,Wanita,17,50.16,852.72,Fiber optic,One year,Mailed check,Tidak
+798,64,Pria,40,64.16,2566.4,Fiber optic,One year,Credit card (automatic),Tidak
+799,42,Pria,18,84.38,1518.84,DSL,Two year,Bank transfer (automatic),Tidak
+800,19,Pria,55,23.68,1302.4,Fiber optic,Two year,Bank transfer (automatic),Tidak
+801,27,Wanita,25,84.65,2116.25,Fiber optic,Month-to-month,Credit card (automatic),Ya
+802,47,Wanita,59,34.23,2019.57,Fiber optic,Month-to-month,Mailed check,Ya
+803,67,Pria,22,61.17,1345.74,No,One year,Mailed check,Tidak
+804,62,Pria,30,84.66,2539.8,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+805,22,Wanita,44,40.31,1773.64,No,Month-to-month,Credit card (automatic),Tidak
+806,50,Pria,32,39.66,1269.12,DSL,Month-to-month,Mailed check,Tidak
+807,18,Pria,51,52.22,2663.22,DSL,Month-to-month,Mailed check,Tidak
+808,35,Wanita,46,91.57,4212.22,No,Month-to-month,Mailed check,Tidak
+809,49,Pria,21,20.04,420.84,No,One year,Electronic check,Ya
+810,64,Wanita,32,92.11,2947.52,No,One year,Credit card (automatic),Tidak
+811,66,Pria,39,32.3,1259.7,Fiber optic,Month-to-month,Mailed check,Tidak
+812,28,Wanita,12,99.21,1190.52,DSL,One year,Electronic check,Tidak
+813,38,Pria,47,96.39,4530.33,No,Two year,Credit card (automatic),Tidak
+814,43,Pria,18,59.57,1072.26,Fiber optic,Month-to-month,Mailed check,Tidak
+815,42,Wanita,21,61.02,1281.42,DSL,Two year,Bank transfer (automatic),Tidak
+816,39,Pria,13,58.52,760.76,Fiber optic,One year,Electronic check,Ya
+817,44,Wanita,21,70.84,1487.64,DSL,One year,Electronic check,Tidak
+818,66,Pria,8,27.26,218.08,Fiber optic,Two year,Mailed check,Ya
+819,30,Wanita,46,22.61,1040.06,DSL,One year,Mailed check,Tidak
+820,50,Wanita,7,24.62,172.34,DSL,Month-to-month,Electronic check,Ya
+821,51,Wanita,23,55.55,1277.65,Fiber optic,Two year,Bank transfer (automatic),Ya
+822,58,Wanita,22,42.04,924.88,No,Month-to-month,Bank transfer (automatic),Tidak
+823,52,Pria,22,69.76,1534.72,DSL,Two year,Credit card (automatic),Tidak
+824,18,Pria,29,99.4,2882.6,No,One year,Mailed check,Ya
+825,38,Wanita,13,50.91,661.83,Fiber optic,Two year,Bank transfer (automatic),Ya
+826,65,Wanita,2,65.91,131.82,No,Two year,Credit card (automatic),Tidak
+827,23,Wanita,29,53.25,1544.25,No,Month-to-month,Bank transfer (automatic),Tidak
+828,45,Pria,52,87.78,4564.56,No,One year,Mailed check,Tidak
+829,34,Pria,27,92.18,2488.86,No,Month-to-month,Credit card (automatic),Ya
+830,22,Pria,50,90.19,4509.5,No,One year,Credit card (automatic),Tidak
+831,48,Pria,23,97.95,2252.85,DSL,Month-to-month,Credit card (automatic),Ya
+832,22,Wanita,44,22.2,976.8,DSL,Two year,Bank transfer (automatic),Ya
+833,55,Wanita,22,87.19,1918.18,DSL,Month-to-month,Mailed check,Tidak
+834,20,Wanita,43,80.14,3446.02,Fiber optic,One year,Credit card (automatic),Tidak
+835,40,Pria,37,38.3,1417.1,No,One year,Electronic check,Tidak
+836,54,Pria,61,96.51,5887.11,DSL,Two year,Mailed check,Tidak
+837,54,Pria,56,31.85,1783.6,Fiber optic,One year,Electronic check,Tidak
+838,27,Wanita,3,74.36,223.08,DSL,Month-to-month,Electronic check,Tidak
+839,27,Wanita,63,37.99,2393.37,DSL,Two year,Credit card (automatic),Tidak
+840,36,Pria,19,54.51,1035.69,No,One year,Credit card (automatic),Tidak
+841,34,Wanita,23,77.53,1783.19,Fiber optic,One year,Bank transfer (automatic),Tidak
+842,38,Pria,29,65.07,1887.03,No,Month-to-month,Bank transfer (automatic),Tidak
+843,31,Pria,30,54.2,1626.0,No,Month-to-month,Bank transfer (automatic),Tidak
+844,26,Wanita,39,46.11,1798.29,DSL,Two year,Mailed check,Tidak
+845,63,Pria,25,87.17,2179.25,No,One year,Bank transfer (automatic),Tidak
+846,18,Wanita,8,31.51,252.08,Fiber optic,Month-to-month,Electronic check,Tidak
+847,68,Pria,58,54.41,3155.78,No,Two year,Bank transfer (automatic),Tidak
+848,62,Wanita,16,92.3,1476.8,No,One year,Credit card (automatic),Ya
+849,30,Wanita,1,87.67,87.67,No,One year,Bank transfer (automatic),Tidak
+850,21,Wanita,5,52.08,260.4,DSL,Two year,Mailed check,Tidak
+851,18,Pria,3,81.05,243.15,Fiber optic,Two year,Mailed check,Ya
+852,66,Pria,65,85.85,5580.25,DSL,Month-to-month,Electronic check,Tidak
+853,57,Wanita,4,91.11,364.44,DSL,One year,Mailed check,Tidak
+854,49,Wanita,64,63.56,4067.84,DSL,One year,Bank transfer (automatic),Tidak
+855,51,Pria,10,36.36,363.6,DSL,One year,Credit card (automatic),Tidak
+856,45,Pria,21,40.42,848.82,DSL,Two year,Mailed check,Tidak
+857,48,Pria,46,43.66,2008.36,Fiber optic,Month-to-month,Electronic check,Ya
+858,25,Wanita,27,67.5,1822.5,No,One year,Bank transfer (automatic),Tidak
+859,56,Pria,66,22.62,1492.92,DSL,Two year,Electronic check,Ya
+860,43,Pria,41,70.88,2906.08,DSL,One year,Mailed check,Ya
+861,51,Wanita,13,49.15,638.95,Fiber optic,Month-to-month,Mailed check,Ya
+862,20,Pria,9,43.62,392.58,Fiber optic,One year,Electronic check,Tidak
+863,67,Pria,36,90.36,3252.96,No,Month-to-month,Bank transfer (automatic),Tidak
+864,29,Pria,58,56.8,3294.4,Fiber optic,Month-to-month,Mailed check,Ya
+865,18,Wanita,54,27.6,1490.4,No,One year,Credit card (automatic),Ya
+866,61,Wanita,12,86.14,1033.68,DSL,One year,Mailed check,Tidak
+867,22,Wanita,14,23.81,333.34,DSL,Month-to-month,Bank transfer (automatic),Ya
+868,47,Wanita,34,78.14,2656.76,No,Two year,Mailed check,Ya
+869,47,Wanita,53,81.91,4341.23,Fiber optic,Month-to-month,Electronic check,Ya
+870,34,Wanita,20,48.21,964.2,No,One year,Mailed check,Tidak
+871,65,Wanita,16,85.98,1375.68,Fiber optic,One year,Mailed check,Tidak
+872,64,Pria,70,61.25,4287.5,DSL,Two year,Bank transfer (automatic),Tidak
+873,40,Pria,56,57.06,3195.36,Fiber optic,Month-to-month,Electronic check,Tidak
+874,32,Wanita,58,23.63,1370.54,No,Month-to-month,Bank transfer (automatic),Tidak
+875,54,Pria,4,43.2,172.8,No,Month-to-month,Mailed check,Tidak
+876,38,Pria,4,94.48,377.92,DSL,One year,Credit card (automatic),Tidak
+877,31,Wanita,20,51.35,1027.0,Fiber optic,Month-to-month,Mailed check,Tidak
+878,19,Pria,10,63.74,637.4,Fiber optic,Two year,Bank transfer (automatic),Tidak
+879,28,Pria,24,62.56,1501.44,Fiber optic,One year,Credit card (automatic),Ya
+880,68,Pria,26,67.23,1747.98,DSL,One year,Bank transfer (automatic),Tidak
+881,56,Pria,37,24.91,921.67,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+882,55,Pria,54,48.97,2644.38,No,Two year,Electronic check,Tidak
+883,51,Wanita,21,77.85,1634.85,Fiber optic,One year,Credit card (automatic),Tidak
+884,55,Wanita,38,36.04,1369.52,DSL,One year,Mailed check,Tidak
+885,67,Wanita,46,36.29,1669.34,Fiber optic,Month-to-month,Bank transfer (automatic),Ya
+886,51,Pria,4,20.81,83.24,Fiber optic,Month-to-month,Mailed check,Tidak
+887,35,Wanita,60,55.0,3300.0,No,Two year,Electronic check,Tidak
+888,47,Pria,57,90.62,5165.34,Fiber optic,Month-to-month,Electronic check,Tidak
+889,32,Pria,45,24.15,1086.75,No,Two year,Credit card (automatic),Tidak
+890,44,Pria,20,35.29,705.8,No,One year,Electronic check,Tidak
+891,68,Pria,17,44.81,761.77,DSL,Two year,Electronic check,Ya
+892,51,Wanita,71,78.54,5576.34,No,Two year,Mailed check,Tidak
+893,69,Wanita,4,71.25,285.0,No,Two year,Electronic check,Ya
+894,55,Pria,14,53.28,745.92,DSL,One year,Electronic check,Tidak
+895,50,Wanita,3,80.73,242.19,No,Month-to-month,Bank transfer (automatic),Tidak
+896,41,Pria,58,68.77,3988.66,DSL,One year,Electronic check,Tidak
+897,32,Wanita,55,91.68,5042.4,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+898,47,Wanita,4,85.44,341.76,DSL,Two year,Electronic check,Tidak
+899,59,Pria,24,40.23,965.52,No,Two year,Electronic check,Tidak
+900,68,Wanita,34,41.72,1418.48,DSL,Two year,Credit card (automatic),Tidak
+901,34,Pria,30,30.03,900.9,No,Two year,Credit card (automatic),Tidak
+902,22,Wanita,19,46.96,892.24,Fiber optic,Two year,Bank transfer (automatic),Tidak
+903,46,Pria,31,99.96,3098.76,DSL,Month-to-month,Electronic check,Tidak
+904,21,Pria,60,52.46,3147.6,Fiber optic,Month-to-month,Mailed check,Ya
+905,27,Wanita,60,37.64,2258.4,No,Two year,Credit card (automatic),Tidak
+906,34,Wanita,19,81.0,1539.0,No,One year,Mailed check,Tidak
+907,27,Pria,49,63.4,3106.6,Fiber optic,One year,Credit card (automatic),Tidak
+908,34,Wanita,63,31.97,2014.11,DSL,Two year,Credit card (automatic),Ya
+909,37,Wanita,22,50.46,1110.12,DSL,Month-to-month,Electronic check,Tidak
+910,41,Pria,24,53.16,1275.84,No,One year,Credit card (automatic),Tidak
+911,22,Pria,30,80.31,2409.3,Fiber optic,One year,Mailed check,Tidak
+912,51,Wanita,58,21.65,1255.7,Fiber optic,One year,Credit card (automatic),Tidak
+913,23,Pria,31,41.52,1287.12,DSL,Two year,Bank transfer (automatic),Tidak
+914,19,Pria,64,61.41,3930.24,DSL,One year,Electronic check,Tidak
+915,30,Pria,19,41.51,788.69,DSL,One year,Electronic check,Ya
+916,60,Wanita,48,70.27,3372.96,Fiber optic,One year,Bank transfer (automatic),Tidak
+917,60,Wanita,45,58.55,2634.75,DSL,One year,Bank transfer (automatic),Tidak
+918,65,Pria,55,48.94,2691.7,DSL,Month-to-month,Bank transfer (automatic),Ya
+919,28,Wanita,55,95.94,5276.7,No,Two year,Credit card (automatic),Tidak
+920,68,Pria,18,70.57,1270.26,DSL,Two year,Electronic check,Ya
+921,64,Wanita,63,30.4,1915.2,DSL,Month-to-month,Bank transfer (automatic),Tidak
+922,40,Pria,47,64.81,3046.07,Fiber optic,Month-to-month,Credit card (automatic),Tidak
+923,33,Pria,57,82.46,4700.22,Fiber optic,Two year,Bank transfer (automatic),Tidak
+924,48,Wanita,45,76.68,3450.6,No,One year,Mailed check,Ya
+925,28,Pria,33,33.77,1114.41,DSL,One year,Mailed check,Ya
+926,33,Wanita,17,97.79,1662.43,No,Two year,Electronic check,Tidak
+927,25,Wanita,70,55.91,3913.7,Fiber optic,One year,Credit card (automatic),Tidak
+928,21,Pria,4,32.72,130.88,No,Month-to-month,Mailed check,Tidak
+929,57,Pria,20,34.42,688.4,Fiber optic,One year,Mailed check,Tidak
+930,21,Wanita,47,27.86,1309.42,No,One year,Credit card (automatic),Ya
+931,42,Pria,15,84.28,1264.2,No,One year,Bank transfer (automatic),Tidak
+932,20,Pria,70,29.76,2083.2,DSL,Two year,Credit card (automatic),Tidak
+933,49,Pria,47,30.01,1410.47,No,Month-to-month,Bank transfer (automatic),Tidak
+934,20,Pria,9,88.04,792.36,DSL,One year,Mailed check,Tidak
+935,44,Pria,16,47.57,761.12,DSL,Two year,Mailed check,Tidak
+936,46,Wanita,69,22.47,1550.43,DSL,One year,Mailed check,Tidak
+937,49,Wanita,61,24.15,1473.15,DSL,Month-to-month,Electronic check,Ya
+938,67,Pria,10,31.37,313.7,No,One year,Electronic check,Tidak
+939,68,Pria,50,37.07,1853.5,Fiber optic,Month-to-month,Electronic check,Tidak
+940,36,Pria,3,73.21,219.63,Fiber optic,One year,Credit card (automatic),Ya
+941,38,Wanita,70,32.59,2281.3,Fiber optic,Month-to-month,Mailed check,Tidak
+942,22,Pria,51,29.51,1505.01,No,One year,Mailed check,Ya
+943,35,Wanita,19,81.18,1542.42,DSL,Month-to-month,Credit card (automatic),Tidak
+944,45,Wanita,42,73.68,3094.56,Fiber optic,One year,Electronic check,Tidak
+945,59,Wanita,35,54.83,1919.05,No,One year,Credit card (automatic),Tidak
+946,39,Pria,46,63.94,2941.24,DSL,Two year,Electronic check,Ya
+947,38,Wanita,26,44.96,1168.96,Fiber optic,Two year,Mailed check,Tidak
+948,23,Pria,69,58.6,4043.4,DSL,Month-to-month,Bank transfer (automatic),Tidak
+949,18,Wanita,64,60.53,3873.92,Fiber optic,One year,Electronic check,Tidak
+950,22,Pria,37,50.98,1886.26,Fiber optic,Month-to-month,Mailed check,Tidak
+951,58,Wanita,49,92.53,4533.97,Fiber optic,Two year,Mailed check,Ya
+952,29,Pria,21,21.28,446.88,DSL,Month-to-month,Bank transfer (automatic),Tidak
+953,43,Wanita,64,82.57,5284.48,No,Month-to-month,Mailed check,Tidak
+954,63,Pria,5,29.95,149.75,DSL,Two year,Mailed check,Tidak
+955,51,Pria,70,83.8,5866.0,Fiber optic,One year,Electronic check,Ya
+956,66,Pria,4,69.27,277.08,DSL,Month-to-month,Electronic check,Ya
+957,31,Pria,39,87.46,3410.94,No,Two year,Bank transfer (automatic),Ya
+958,43,Wanita,35,27.8,973.0,DSL,One year,Bank transfer (automatic),Tidak
+959,62,Wanita,1,64.72,64.72,No,Two year,Mailed check,Tidak
+960,44,Pria,24,60.09,1442.16,No,Month-to-month,Electronic check,Tidak
+961,26,Wanita,57,76.5,4360.5,DSL,One year,Bank transfer (automatic),Tidak
+962,43,Pria,70,62.74,4391.8,Fiber optic,One year,Bank transfer (automatic),Tidak
+963,64,Pria,41,63.26,2593.66,No,Two year,Credit card (automatic),Tidak
+964,39,Wanita,54,54.37,2935.98,DSL,Two year,Bank transfer (automatic),Tidak
+965,64,Pria,46,44.71,2056.66,No,Two year,Mailed check,Ya
+966,47,Pria,60,58.58,3514.8,Fiber optic,One year,Electronic check,Tidak
+967,60,Wanita,60,29.48,1768.8,DSL,One year,Bank transfer (automatic),Tidak
+968,65,Pria,57,96.92,5524.44,DSL,Month-to-month,Credit card (automatic),Ya
+969,34,Pria,31,77.15,2391.65,DSL,One year,Electronic check,Tidak
+970,43,Pria,24,96.2,2308.8,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+971,53,Pria,36,38.14,1373.04,No,Two year,Credit card (automatic),Tidak
+972,18,Wanita,30,90.35,2710.5,DSL,Two year,Bank transfer (automatic),Tidak
+973,25,Wanita,24,84.7,2032.8,No,One year,Electronic check,Tidak
+974,66,Wanita,30,74.17,2225.1,No,Two year,Electronic check,Tidak
+975,52,Pria,7,70.0,490.0,Fiber optic,Two year,Electronic check,Tidak
+976,69,Pria,35,45.32,1586.2,DSL,One year,Mailed check,Tidak
+977,32,Wanita,55,85.31,4692.05,No,Month-to-month,Bank transfer (automatic),Tidak
+978,64,Pria,14,60.12,841.68,DSL,One year,Mailed check,Tidak
+979,39,Pria,10,25.67,256.7,DSL,Month-to-month,Electronic check,Tidak
+980,31,Pria,16,45.03,720.48,Fiber optic,One year,Credit card (automatic),Tidak
+981,43,Pria,54,94.82,5120.28,DSL,One year,Bank transfer (automatic),Tidak
+982,45,Wanita,70,88.05,6163.5,DSL,Two year,Mailed check,Ya
+983,40,Wanita,44,98.55,4336.2,No,One year,Bank transfer (automatic),Ya
+984,31,Wanita,45,70.24,3160.8,Fiber optic,One year,Credit card (automatic),Ya
+985,41,Pria,56,39.8,2228.8,DSL,Month-to-month,Mailed check,Tidak
+986,19,Wanita,57,33.03,1882.71,No,Two year,Electronic check,Ya
+987,62,Wanita,21,34.95,733.95,Fiber optic,Month-to-month,Mailed check,Ya
+988,43,Pria,68,21.58,1467.44,Fiber optic,Month-to-month,Bank transfer (automatic),Tidak
+989,31,Pria,50,51.25,2562.5,No,Two year,Bank transfer (automatic),Tidak
+990,68,Wanita,33,35.31,1165.23,No,Two year,Bank transfer (automatic),Tidak
+991,24,Wanita,7,52.93,370.51,No,Two year,Bank transfer (automatic),Ya
+992,20,Wanita,70,94.8,6636.0,No,One year,Electronic check,Tidak
+993,64,Wanita,15,54.44,816.6,No,Two year,Mailed check,Tidak
+994,40,Pria,32,90.24,2887.68,DSL,Two year,Electronic check,Tidak
+995,63,Wanita,20,68.44,1368.8,DSL,Two year,Electronic check,Tidak
+996,60,Wanita,15,39.77,596.55,Fiber optic,Month-to-month,Electronic check,Tidak
+997,64,Pria,48,48.47,2326.56,DSL,Month-to-month,Bank transfer (automatic),Ya
+998,62,Wanita,71,26.71,1896.41,DSL,One year,Bank transfer (automatic),Ya
+999,35,Pria,21,46.68,980.28,DSL,Month-to-month,Bank transfer (automatic),Ya
+1000,55,Pria,42,74.2,3116.4,No,One year,Mailed check,Tidak
